@@ -1098,7 +1098,7 @@ NPRIM = onprim - zeroCount
 	return  
 	end
 !```````````````````````````````````````````````````````````````````````````
-!	ang(x) takes a type assignment, and converts it to an angular momentum
+!	getAngMom(x) takes a type assignment, and converts it to an angular momentum
 !,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 	integer function getAngMom(x)
         implicit none
